@@ -106,7 +106,7 @@ namespace AES
         }
 
 
-
+public string batchFilename = "up.bat";
         private int VersionCheck()
         {
             String url = "";
