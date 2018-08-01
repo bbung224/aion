@@ -1,0 +1,256 @@
+<skill_base_client>
+    <id>360</id>
+    <name>P_EQUIP_Dual_G2</name>
+    <desc>STR_SKILL_P_EQUIP_Dual_G2</desc>
+    <desc_long>STR_SKILL_P_EQUIP_Dual_DESC</desc_long>
+    <desc_prechain_category_name>STR_PreChain_P_EQUIP_Dual</desc_prechain_category_name>
+    <type>Physical</type>
+    <sub_type>None</sub_type>
+    <skill_category>SKILLCTG_NONE</skill_category>
+    <ultra_skill>0</ultra_skill>
+    <ultra_transfer>0</ultra_transfer>
+    <skill_group_name>P_EQUIP_Dual</skill_group_name>
+    <skillicon_name>CBT_P_EQUIP_Dual_G2.dds</skillicon_name>
+    <delay_id>19</delay_id>
+    <activation_attribute>Passive</activation_attribute>
+    <cost_parameter>MP</cost_parameter>
+    <cost_charge_weapon>0</cost_charge_weapon>
+    <cost_charge_armor>0</cost_charge_armor>
+    <polish_charge_weapon>0</polish_charge_weapon>
+    <target_slot>NoShow</target_slot>
+    <first_target>Me</first_target>
+    <effect1_type>Wpn_Dual</effect1_type>
+    <effect1_effectid>130</effect1_effectid>
+    <effect1_basiclv>20</effect1_basiclv>
+    <effect1_reserved1>0</effect1_reserved1>
+    <effect1_reserved2>42</effect1_reserved2>
+    <effect1_reserved4>500</effect1_reserved4>
+    <effect1_reserved6>75</effect1_reserved6>
+    <effect3_hop_a>0</effect3_hop_a>
+    <effect3_hop_b>0</effect3_hop_b>
+    <effect4_hop_a>0</effect4_hop_a>
+    <effect4_hop_b>0</effect4_hop_b>
+  </skill_base_client>
+
+<skill_base_client>
+    <id>127</id>
+    <name>P_EQUIP_Dual_G3</name>
+    <desc>STR_SKILL_P_EQUIP_Dual_G3</desc>
+    <desc_long>STR_SKILL_P_EQUIP_Dual_DESC</desc_long>
+    <desc_prechain_category_name>STR_PreChain_P_EQUIP_Dual</desc_prechain_category_name>
+    <type>Physical</type>
+    <sub_type>None</sub_type>
+    <skill_category>SKILLCTG_NONE</skill_category>
+    <ultra_skill>0</ultra_skill>
+    <ultra_transfer>0</ultra_transfer>
+    <skill_group_name>P_EQUIP_Dual</skill_group_name>
+    <skillicon_name>CBT_P_EQUIP_Dual_G3.dds</skillicon_name>
+    <delay_id>19</delay_id>
+    <activation_attribute>Passive</activation_attribute>
+    <cost_parameter>MP</cost_parameter>
+    <cost_charge_weapon>0</cost_charge_weapon>
+    <cost_charge_armor>0</cost_charge_armor>
+    <polish_charge_weapon>0</polish_charge_weapon>
+    <target_slot>NoShow</target_slot>
+    <first_target>Me</first_target>
+    <effect1_type>Wpn_Dual</effect1_type>
+    <effect1_effectid>130</effect1_effectid>
+    <effect1_basiclv>40</effect1_basiclv>
+    <effect1_reserved1>0</effect1_reserved1>
+    <effect1_reserved2>44</effect1_reserved2>
+    <effect1_reserved4>600</effect1_reserved4>
+    <effect1_reserved6>80</effect1_reserved6>
+  </skill_base_client>
+  
+  <skill_base_client>
+    <id>128</id>
+    <name>P_EQUIP_Dual_G4</name>
+    <desc>STR_SKILL_P_EQUIP_Dual_G4</desc>
+    <desc_long>STR_SKILL_P_EQUIP_Dual_DESC</desc_long>
+    <desc_prechain_category_name>STR_PreChain_P_EQUIP_Dual</desc_prechain_category_name>
+    <type>Physical</type>
+    <sub_type>None</sub_type>
+    <skill_category>SKILLCTG_NONE</skill_category>
+    <ultra_skill>0</ultra_skill>
+    <ultra_transfer>0</ultra_transfer>
+    <skill_group_name>P_EQUIP_Dual</skill_group_name>
+    <skillicon_name>CBT_P_EQUIP_Dual_G4.dds</skillicon_name>
+    <delay_id>19</delay_id>
+    <activation_attribute>Passive</activation_attribute>
+    <cost_parameter>MP</cost_parameter>
+    <cost_charge_weapon>0</cost_charge_weapon>
+    <cost_charge_armor>0</cost_charge_armor>
+    <polish_charge_weapon>0</polish_charge_weapon>
+    <target_slot>NoShow</target_slot>
+    <first_target>Me</first_target>
+    <effect1_type>Wpn_Dual</effect1_type>
+    <effect1_effectid>130</effect1_effectid>
+    <effect1_basiclv>60</effect1_basiclv>
+    <effect1_reserved1>0</effect1_reserved1>
+    <effect1_reserved2>46</effect1_reserved2>
+    <effect1_reserved4>700</effect1_reserved4>
+    <effect1_reserved6>85</effect1_reserved6>
+  </skill_base_client>
+
+
+<skill_base_client>
+    <id>924</id>
+    <name>P_EQUIP_Dual_G5</name>
+    <desc>STR_SKILL_P_EQUIP_Dual_G5</desc>
+    <desc_long>STR_SKILL_P_EQUIP_Dual_DESC</desc_long>
+    <desc_prechain_category_name>STR_PreChain_P_EQUIP_Dual</desc_prechain_category_name>
+    <type>Physical</type>
+    <sub_type>None</sub_type>
+    <skill_category>SKILLCTG_NONE</skill_category>
+    <ultra_skill>0</ultra_skill>
+    <ultra_transfer>0</ultra_transfer>
+    <skill_group_name>P_EQUIP_Dual</skill_group_name>
+    <skillicon_name>CBT_P_EQUIP_Dual_G5.dds</skillicon_name>
+    <delay_id>19</delay_id>
+    <activation_attribute>Passive</activation_attribute>
+    <cost_parameter>MP</cost_parameter>
+    <cost_charge_weapon>0</cost_charge_weapon>
+    <cost_charge_armor>0</cost_charge_armor>
+    <polish_charge_weapon>0</polish_charge_weapon>
+    <target_slot>NoShow</target_slot>
+    <first_target>Me</first_target>
+    <effect1_type>Wpn_Dual</effect1_type>
+    <effect1_effectid>130</effect1_effectid>
+    <effect1_basiclv>80</effect1_basiclv>
+    <effect1_reserved1>0</effect1_reserved1>
+    <effect1_reserved2>48</effect1_reserved2>
+    <effect1_reserved3>0</effect1_reserved3>
+    <effect1_reserved4>800</effect1_reserved4>
+    <effect1_reserved5>0</effect1_reserved5>
+    <effect1_reserved6>90</effect1_reserved6>
+  </skill_base_client>
+
+
+  <skill_base_client>
+    <id>11548</id>
+    <name>Stigma_EQUIP_Dual_G2</name>
+    <desc>STR_SKILL_StigmaI_EQUIP_Dual_G2</desc>
+    <desc_long>STR_SKILL_FI_EQUIP_Dual_DESC</desc_long>
+    <type>Physical</type>
+    <sub_type>None</sub_type>
+    <skill_category>SKILLCTG_NONE</skill_category>
+    <ultra_skill>0</ultra_skill>
+    <ultra_transfer>0</ultra_transfer>
+    <skillicon_name>CBT_FI_EQUIP_Dual.dds</skillicon_name>
+    <delay_id>19</delay_id>
+    <activation_attribute>Passive</activation_attribute>
+    <target_slot>NoShow</target_slot>
+    <first_target>Me</first_target>
+    <effect1_type>Wpn_Dual</effect1_type>
+    <effect1_effectid>130</effect1_effectid>
+    <effect1_basiclv>20</effect1_basiclv>
+    <effect1_reserved1>0</effect1_reserved1>
+    <effect1_reserved2>50</effect1_reserved2>
+    <effect1_reserved3>80</effect1_reserved3>
+    <effect1_reserved4>420</effect1_reserved4>
+    <effect1_reserved5>2</effect1_reserved5>
+    <effect1_reserved6>78</effect1_reserved6>
+    <effect3_hop_a>0</effect3_hop_a>
+    <effect3_hop_b>0</effect3_hop_b>
+    <effect4_hop_a>0</effect4_hop_a>
+    <effect4_hop_b>0</effect4_hop_b>
+  </skill_base_client>
+
+
+   <effect1_type>Wpn_Dual</effect1_type>
+    <effect1_effectid>130</effect1_effectid>
+    <effect1_basiclv>20</effect1_basiclv>
+    <effect1_reserved1>0</effect1_reserved1>
+    <effect1_reserved2>42</effect1_reserved2>
+    <effect1_reserved4>500</effect1_reserved4>
+    <effect1_reserved6>75</effect1_reserved6>
+    <effect3_hop_a>0</effect3_hop_a>
+    <effect3_hop_b>0</effect3_hop_b>
+    <effect4_hop_a>0</effect4_hop_a>
+    <effect4_hop_b>0</effect4_hop_b>
+
+    <effect1_type>Wpn_Dual</effect1_type>
+    <effect1_effectid>130</effect1_effectid>
+    <effect1_basiclv>40</effect1_basiclv>
+    <effect1_reserved1>0</effect1_reserved1>
+    <effect1_reserved2>44</effect1_reserved2>
+    <effect1_reserved4>600</effect1_reserved4>
+    <effect1_reserved6>80</effect1_reserved6>
+
+살성 1 : 40 400 70
+살성 2 : 42 500 75
+살성 3 : 44 600 80
+살성 4 : 46 700 85
+살성 5 : 48 800 90
+
+검성 1 : 50 20 63
+검성 2 : 50 420 78
+
+
+전문단검 1 : 30
+전문단검 4 : 45
+
+
+무기대미지는 20
+앙큼싹싹은
+쌍수 2단계며 전문단검1
+22 + 6 = 28  20 + (20*0.1) + 20*0.3= 6
+19 + 5 = 24  20
+
+시야랑은
+쌍수 5단계며 전문단검4
+22 + 9 = 31  20 + (20*0.1) + 20*0.45 = 31
+21 + 9 = 30  
+
+무기대미지 20 에서
+20/2 + 20/2*0.9
+19 + 19*0.1 + 19*0.45
+
+
+20 * 0.75 = 15
+20 /2 * 0.75 + 20/2 = 17.5 
+17.5 + 1.75 = 19.25 + 5.25
+-----------------------
+
+
+
+
+// 소주 쌍수만 차고 있을때 257 + 276 = 533  251 + 236 = 487 스티그마 2레벨
+// 소주 쌍수만 차고 있을때 257 + 276 = 533  235 + 221 = 456 스티그마 1레벨
+
+//검성 1 : 50 20 63
+//검성 2 : 50 420 78
+
+26 15
+
+
+249.5 * X = y
+y *1.15 = 251
+y = 251 / 1.15
+x = 251 / 1.15 / 249.5 = 0.874
+x = 235 / 1.15 / 249.5 = 0.819
+
+y * 0.38 + 175 = 556
+y = (269 - 175) / 0.38
+
+236 - 175 = 61
+221 - 175 = 46
+
+x1 * 0.38 = 61
+x2 * 0.38 = 46
+
+x1 = 160.52
+x2 = 121.05
+
+249.5 * z1 = 160.52
+249.5 * z2 = 121.05
+z1 = 0.64
+z2 = 0.48
+
+249.5 * 0.64 * 0.38 + 175
+249.5 * 0.48 * 0.38 + 175
+
+0.5 + 0.5*0.78
+
+1 - 0.5*0.78
+

@@ -1,0 +1,273 @@
+﻿<client_item>
+    <id>100001552</id>
+    <name>sword_n_m_idunderrune_65a</name>
+    <desc>STR_SWORD_N_M_IDUNDERRUNE_65A</desc>
+    <weapon_type>1h_sword</weapon_type>
+    <item_type>normal</item_type>
+    <mesh>SW_IDRun01a</mesh>
+    <mesh_change>0</mesh_change>
+    <material>mat_sword_h</material>
+    <dmg_decal>1</dmg_decal>
+    <item_fx>sys_Weapon_V4.IDRun01a.m2</item_fx>
+    <combat_item_fx>sys_Weapon_V4.IDRun01a.m2</combat_item_fx>
+    <icon_name>Icon_Item_sword_M01</icon_name>
+    <blade_fx>1</blade_fx>
+    <trail_tex>fxtrail_normal</trail_tex>
+    <price>3224763</price>
+    <max_stack_count>1</max_stack_count>
+    <equipment_slots>main_or_sub</equipment_slots>
+    <min_damage>221</min_damage>
+    <max_damage>271</max_damage>
+    <str>100</str>
+    <agi>0</agi>
+    <kno>0</kno>
+    <hit_accuracy>1158</hit_accuracy>
+    <critical>50</critical>
+    <parry>1181</parry>
+    <magical_skill_boost>0</magical_skill_boost>
+    <magical_skill_boost_resist>0</magical_skill_boost_resist>
+    <magical_hit_accuracy>391</magical_hit_accuracy>
+    <attack_type>physical</attack_type>
+    <attack_delay>1400</attack_delay>
+    <hit_count>2</hit_count>
+    <attack_gap>0.000000</attack_gap>
+    <attack_range>1.500000</attack_range>
+    <quality>mythic</quality>
+    <level>65</level>
+    <lore>FALSE</lore>
+    <can_exchange>FALSE</can_exchange>
+    <can_sell_to_npc>TRUE</can_sell_to_npc>
+    <can_deposit_to_character_warehouse>TRUE</can_deposit_to_character_warehouse>
+    <can_deposit_to_account_warehouse>FALSE</can_deposit_to_account_warehouse>
+    <can_deposit_to_guild_warehouse>FALSE</can_deposit_to_guild_warehouse>
+    <breakable>TRUE</breakable>
+    <soul_bind>FALSE</soul_bind>
+    <remove_when_logout>FALSE</remove_when_logout>
+    <gender_permitted>all</gender_permitted>
+    <warrior>65</warrior>
+    <scout>65</scout>
+    <mage>65</mage>
+    <cleric>65</cleric>
+    <engineer>65</engineer>
+    <artist>65</artist>
+    <fighter>65</fighter>
+    <knight>65</knight>
+    <assassin>65</assassin>
+    <ranger>65</ranger>
+    <wizard>65</wizard>
+    <elementalist>65</elementalist>
+    <chanter>65</chanter>
+    <priest>65</priest>
+    <gunner>65</gunner>
+    <bard>65</bard>
+    <rider>65</rider>
+    <option_slot_value>5</option_slot_value>
+    <special_slot_value>1</special_slot_value>
+    <option_slot_bonus>1</option_slot_bonus>
+    <bonus_attr1>parry 144</bonus_attr1>
+    <bonus_attr2>maxhp 614</bonus_attr2>
+    <bonus_attr3>phyattack 41</bonus_attr3>
+    <bonus_attr4>critical 59</bonus_attr4>
+    <bonus_attr5>hitaccuracy 138</bonus_attr5>
+    <bonus_attr6>attackdelay 17%</bonus_attr6>
+    <random_option_set>sword_n_m_idunderrune_65a</random_option_set>
+    <reidentify_count>3</reidentify_count>
+    <bonus_apply>equip</bonus_apply>
+    <no_enchant>FALSE</no_enchant>
+    <max_enchant_value>13</max_enchant_value>
+    <max_enchant_bonus>2</max_enchant_bonus>
+    <can_proc_enchant>TRUE</can_proc_enchant>
+    <can_composite_weapon>FALSE</can_composite_weapon>
+    <cannot_changeskin>0</cannot_changeskin>
+    <extract_skin_type>0</extract_skin_type>
+    <ui_sound_type>Sounds/item/item_att_long_sword</ui_sound_type>
+    <cash_item>0</cash_item>
+    <can_split>FALSE</can_split>
+    <item_drop_permitted>FALSE</item_drop_permitted>
+    <bm_restrict_category>5</bm_restrict_category>
+    <can_ap_extraction>FALSE</can_ap_extraction>
+    <can_polish>TRUE</can_polish>
+    <polish_burn_on_attack>34</polish_burn_on_attack>
+    <polish_burn_on_defend>14</polish_burn_on_defend>
+    <race_permitted>pc_light pc_dark</race_permitted>
+  </client_item>
+
+
+
+
+
+
+
+
+
+  101300968
+
+
+clients_items_etc.xml
+
+1000 - sword 장검
+1001 - mace 전곤
+1002 - dagger 단도
+1005 - orb 보주
+1006 - book 법서
+1009 - 2hsword 대검
+1013 - polearm 미늘창
+1015 - staff 지팡이
+1017 - bow 활
+1018 - gun 총
+1019 - cannon 마력포
+1020 - harp 현악기
+
+1200 - 귀고리
+121 - 목걸이
+122 - 반지
+123 - 허리띠
+
+14 - 스티그마
+
+15 - 제작 
+
+16 - 강화석 enchant
+
+166050006 이디안 물리방어 polish
+166050088 주신의 이디안: 마법 방어
+
+167000226 matter_option 마석
+167020071 special_matter 고대마석
+
+
+152201232 - 주문서
+
+
+1600 음식 / 캔디
+
+
+
+
+235.5 + 20
+
+255.5
+
+Base damage done =   (Base Weapon damage + Enchanted Weapon damage)   * (Power / 100 + Weapon Passive% bonus / 100 + %Skill bonuses / 100)   
+
+
++ Attack bonuses + Skill damage bonus
+
+
+
+255.5 * 1.1 = 281.05
+
+37 + 27 = 64
+
+
+전문 장검 수련 38
+
+장검옵션 37
+마석 27
+맨몸 19
+전문장검수련 38
+
+
+106.799
+
+
+
+http://www.aionsource.com/topic/91173-physical-damage-and-you/page__p__1824115__fromsearch__1#entry1824115
+
+
+83
+
+
+281 + 161 = 442
+
+281 *0.25 = 70.25
+
+aion.gamechosun.co.kr/board/view.php?bid=report&num=57291
+
+
+<id>292191</id>
+    <name>STR_SKILL_P_EQUIP_Dual_G5</name>
+    <body>쌍수 무기 장착 V</body>
+ <id>924</id>
+    <name>P_EQUIP_Dual_G5</name>
+    <desc>STR_SKILL_P_EQUIP_Dual_G5</desc>
+    <desc_long>STR_SKILL_P_EQUIP_Dual_DESC</desc_long>
+    <desc_prechain_category_name>STR_PreChain_P_EQUIP_Dual</desc_prechain_category_name>
+    <type>Physical</type>
+    <sub_type>None</sub_type>
+
+
+     <id>11548</id>
+    <name>Stigma_EQUIP_Dual_G2</name>
+    <desc>STR_SKILL_StigmaI_EQUIP_Dual_G2</desc>
+    <desc_long>STR_SKILL_FI_EQUIP_Dual_DESC</desc_long>
+
+
+
+0 50 80 420 2 78
+0 48 0 800 0 90
+
+
+
+
+
+
+===========================
+강화효과
+http://power.plaync.co.kr/aion/%EA%B0%95%ED%99%94
+
+
+마석추가
+
+
+
+
+===========================
+평균 대미지 = (최소대미지 + 최대대미지) /2
+무기 대미지 = 평균 대미지 + 강화대미지 
+
+흰색 공격력 = 무기 대미지 * (힘 / 100)﻿
+ --> 힘. 물리공격력 패시브에 의해 영향을 받음. 
+
+녹색 공격력 = 무기 대미지 * (전문장검/단검 등등 패시브 수치 / 100) + 마석 + 옵션
+
+스킬 사용시 
+
+녹색 공격력 += 무기 대미지 * (스킬 100) + 마석 + 옵션
+
+전문 마력총 수련 IV = 38
+전문 마력포 수련 IV = 12
+전문 현악기 수련 IV = 32
+전문 장검수련 IV = 38
+전문 단검수련 IV = 45
+전문 전곤수련 IV = 42
+전문 대검수련 IV = 15
+전문 미늘창수련 IV = 15
+전문 궁술수련 IV = 8
+전문 보주수련 IV = 44
+전문 법서수련 IV = 8
+전문 법봉수련 IV = 25
+
+쌍수면
+오른손 추가옵션은 양쪽다 모두 포함
+
+
+
+공속공식
+http://yvfb.edublogs.org/2009/07/14/formula-of-aion-assassin-attack-speed/
+
+http://www.aionsource.com/topic/91173-physical-damage-and-you/
+
+아이온 파워북 스테이터스
+http://power.plaync.co.kr/aion/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%84%B0%EC%8A%A4
+
+
+
+============================
+스킬
+    <name>STR_SKILL_FI_SeraphicPower_G2</name>
+    <body>비행: 물리 공격력 강화 II</body>
+<activation_attribute>Passive</activation_attribute>
+
+    <activation_attribute>Toggle</activation_attribute>
+
